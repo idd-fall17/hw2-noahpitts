@@ -20,7 +20,7 @@ With cording it is necessary to have to use multiple fingers at a given time. Be
 #### CAD
 This guide was then scanned and a more symmetrical drawing was made in a cad program. Along with the template for the keyboard, a key was made for the lower case characters and numbers that could be referenced on the physical interface. The keyboard can correctly type all of the extended ascii set (256), however this would have made for too large of a key, and so only the relevant characters for this assignment are included in the key.
 
-![CAD](./img/cad.jpg)
+![CAD](./img/cad.JPG)
 
 #### Final Prototype
 The final version for this assignment was laser cut on a piece of plywood. Internal spacers were cut on cardboard. One of the internal cardboard pieces was used to hold the buttons and the wiring was soldered directly to the back.
