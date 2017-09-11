@@ -10,7 +10,6 @@ public class AsciiKeyApp extends SimplePicoPro {
     // Mapping of buttons to GPIO pins
     Gpio buttonSet = GPIO_174;
     Gpio buttonClear = GPIO_175;
-//    Gpio[] buttonInput = new Gpio[]{GPIO_10, GPIO_128, GPIO_32, GPIO_33, GPIO_34, GPIO_35, GPIO_37, GPIO_39};
     Gpio[] buttonInput = new Gpio[]{GPIO_39, GPIO_32, GPIO_35, GPIO_34, GPIO_33, GPIO_37, GPIO_128, GPIO_10};
 
 
